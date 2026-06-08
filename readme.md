@@ -1,3 +1,3 @@
 # 👋 Hi
 
-<img src="./metrics.isocalendar.svg" align="right" width="35%" />
+<img src="./github-metrics.svg" align="right" width="100%" />
