@@ -1,3 +1,3 @@
-# 👋 Hi
+# Hi there 👋
 
-<img src="./github-metrics.svg" align="right" width="100%" />
+![Metrics](/github-metrics.svg)
