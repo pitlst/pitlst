@@ -23,7 +23,7 @@ jobs:
           filename: github-metrics.svg
 
           # Options
-          user: stalomeow
+          user: pitlst
           template: classic
           base: header, activity, community
           config_timezone: Asia/Shanghai
